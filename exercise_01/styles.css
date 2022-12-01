@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    background-color: rgb(235, 16, 16);
+}
+
+
+#input-container {
+    border: 5px solid rgb(19, 18, 18);
+    padding: 10px;
+    background-color: #fff;
+}
+
+
+.change-cursor {
+    cursor: pointer;  
+}
