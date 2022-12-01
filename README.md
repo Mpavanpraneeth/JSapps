@@ -1,1 +1,1 @@
-# myapps
+# JS Assignments
